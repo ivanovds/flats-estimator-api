@@ -5,6 +5,7 @@ It was learned on data from [dom.ria](https://dom.ria.com/) as of 2020 year.
 To interact with the model, you can use the REST API.
 
 ## Technology stack
+
 * Python 3, Scikit-learn, requests
 * Django, DRF
 
