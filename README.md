@@ -20,8 +20,8 @@ To interact with the model, you can use the REST API.
 * Code for model training is in the [kyiv_flats_valuation.py](kyiv_flats_valuation.py) file
 * Detail information about this project (in Ukrainian language) is in [Ivanov_bakalavr.pdf](staticfiles/Ivanov_bakalavr.pdf) file 
 
-## Usage
 
+## Usage
 API root view:
 ![step1](staticfiles/readme/Screenshot_1.png?raw=true "Title")
 
