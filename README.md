@@ -9,6 +9,7 @@ To interact with the model, you can use the REST API.
 * Django, DRF
 
 ## Model training
+
 * Used 2 algorithms: Random Forest and Gradient Boosting
 * Main six features: center_distance, metro_distance, azimuth, area, number of floors, floor
 * The model was trained on 80% of the data, and the remaining 20% was used for validation
